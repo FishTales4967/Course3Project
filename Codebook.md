@@ -21,13 +21,21 @@ replacing those with underscores.
 and activity combination.
 
 Input: 8 data text files 
+
 1. Activity_labels.txt
+
 2. Features.txt
+
 3. Subject_test.txt
+
 4. Subject_train.txt
+
 5. X_test.txt
+
 6. X_train.txt
+
 7. Y_test.txt
+
 8. Y_train.txt
 
 Output: the script creates two data frames and loads them into the global environment.
